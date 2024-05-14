@@ -1,8 +1,8 @@
-# Zig-Zag Game
+# Rhythmic Roadstar 
 
 ## Overview
 
-Welcome to the Zig-Zag Game! This Unity game challenges players to control a vehicle that moves left and straightens in a zig-zag pattern upon tapping the screen.
+Welcome to the Rhythmic Roadstar ! This Unity game challenges players to control a vehicle that moves left and straightens in a zig-zag pattern upon tapping the screen.
 
 ## Table of Contents
 
@@ -25,7 +25,7 @@ Welcome to the Zig-Zag Game! This Unity game challenges players to control a veh
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/zigzag-vehicle-control.git
+    git clone https://github.com/your-username/Roadstar.git
     ```
 
 2. Open the project in Unity.
